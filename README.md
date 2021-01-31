@@ -8,6 +8,7 @@ mvn clean package
 Run:
 ================
 cd target
+
 java -jar InstallCert-2.jar
 
 Usage:
