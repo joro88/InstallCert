@@ -14,8 +14,8 @@ Usage:
 ============
 Start jar file with no arguments to get a summary:
 
-
 java -jar InstallCert-2.jar
 
 Usage:   java -jar <jar> [host[:port]] [passphrase] [outputFile] [inputFile]
+
 Example: java -jar <jar> google.com changeit jssecacerts-fixed
