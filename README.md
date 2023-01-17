@@ -1,6 +1,8 @@
 # InstallCert
 Allows to download a certificate from a specified site and import it in your keystore.
 
+Old name: jksExportKey (version 1)
+
 Compile & Build:
 =================
 mvn clean package
