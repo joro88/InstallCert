@@ -12,7 +12,7 @@ Allows to download a certificate from a specified site and import it in your key
 # Help:
 Start jar file with no arguments to get a summary:
 
-# java -jar InstallCert-2.jar
+> java -jar InstallCert-2.jar
 
 # Usage
 > java -jar <jar> [host[:port]] [passphrase] [outputFile] [inputFile]
