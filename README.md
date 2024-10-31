@@ -1,26 +1,21 @@
 # InstallCert
 Allows to download a certificate from a specified site and import it in your keystore.
 
-=================
 # Compile & Build:
 > mvn clean package
 
-=================
 # Run:
 > cd target
 > 
 > java -jar InstallCert-2.jar
 
-=================
 # Help:
 Start jar file with no arguments to get a summary:
 
 # java -jar InstallCert-2.jar
 
-=================
 # Usage
 > java -jar <jar> [host[:port]] [passphrase] [outputFile] [inputFile]
 
-=================
-Example usage: 
+# Example usage: 
 > java -jar InstallCert-2.jar google.com changeit jssecacerts-fixed
