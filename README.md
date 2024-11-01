@@ -1,13 +1,5 @@
 # InstallCert
-Allows to download a certificate from a specified site and import it in your keystore.
-
-# Compile & Build:
-> mvn clean package
-
-# Run:
-> cd target
-> 
-> java -jar InstallCert-2.jar
+Java tool which allows to download a certificate from a specified site and import it in your keystore. It could be executed on Linux and on Windows / DOS.
 
 # Help:
 Start jar file with no arguments to get a summary:
@@ -20,5 +12,9 @@ Start jar file with no arguments to get a summary:
 # Example usage: 
 > java -jar InstallCert-2.jar google.com changeit jssecacerts-fixed
 
+# Compile & Build:
+> mvn clean package
+
 # More information
 [https://dev.miteff.com/](https://dev.miteff.com/)
+
