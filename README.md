@@ -19,3 +19,6 @@ Start jar file with no arguments to get a summary:
 
 # Example usage: 
 > java -jar InstallCert-2.jar google.com changeit jssecacerts-fixed
+
+# More information
+[https://dev.miteff.com/](https://dev.miteff.com/)
